@@ -1,5 +1,7 @@
 # Orientação de estudos
 
+Prof: Carlos Pietrobon
+
 ## Objetivo da unidade
 
 Nesta unidade anterior foi apresentado como desenvolver os requisitos e documentá-los de forma que pudessem ser úteis aos mais diversos “stakeholders”. Entretanto, a lista de requisitos obtida  não permanece estática, imutável, ao longo do tempo. Em consequência de novos interesses dos clientes, mudanças no ambiente de negócio, correções, entre outros fatores, a lista de requisitos inicialmente desenvolvida será alterada. É o que se chama de evolução.
