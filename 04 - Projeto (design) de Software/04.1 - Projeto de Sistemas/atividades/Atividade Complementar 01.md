@@ -34,15 +34,15 @@ Justificativa: Cobertura arquitetural com o sistema financeiro, Não é um proce
 
 **Buscar informações sobre aluno e histórico escolar**
 
-Classificação: **ALTO**
+Classificação: **BAIXO**
 
-Justificativa: Cobertura arquitetural com o sistema de recursos humanos, Realização de funções complexas
+Justificativa: Baixo impacto na arquitetura
 
 **Buscar informações das disciplinas**
 
-Classificação: **ALTO**
+Classificação: **BAIXO**
 
-Justificativa: Cobertura arquitetural com o sistema financeiro
+Justificativa: Baixo impacto na arquitetura
 
 **Buscar informações sobre professor**
 
