@@ -1,5 +1,7 @@
 # Orientação de estudos
 
+Prof: Carlos Pietrobon
+
 ## Objetivo da unidade
 Nesta primeira unidade da disciplina de Engenharia de Requisitos iremos apresentar o que são requisitos de software e discutir a sua importância no processo de desenvolvimento de software.  É importante que vocês entendam bem os três diferentes tipos de requisitos que serão apresentados, pois eles impactam todas as atividades do processo de desenvolvimento de  software. Todas as atividades de desenvolvimento dependem diretamente dos requisitos elencados. Assim, um bom conjunto de requisitos especificados é uma necessidade para a garantia da qualidade do produto de software gerado.
 
