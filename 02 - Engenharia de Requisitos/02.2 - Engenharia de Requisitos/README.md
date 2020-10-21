@@ -1,5 +1,8 @@
 # Orientação de estudos
 
+Prof: Carlos Pietrobon
+
+
 ## Objetivo da unidade
 Nesta segunda unidade da disciplina de Engenharia de Requisitos iremos apresentar o que vem a ser Engenharia de Requisitos. Veremos que ela está dividida em uma área mais técnica, denominada Desenvolvimento de Requisitos, que é responsável pela obtenção e documentação dos requisitos, e uma área mais gerencial, responsável pela gestão da evolução desses requisitos.
 
