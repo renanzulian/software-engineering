@@ -1,6 +1,6 @@
 # Orientação de estudos
 
-Profª: Pedro
+Profª: Pedro A. Oliveira
 
 ## Objetivo da unidade
 
