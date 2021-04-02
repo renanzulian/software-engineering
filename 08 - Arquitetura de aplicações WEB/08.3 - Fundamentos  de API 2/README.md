@@ -10,29 +10,29 @@ A segunda unidade da nossa disciplina busca trazer fundamentos sobre APIs para v
 
 Você irá conhecer nessa unidade
 
-- O que são APIs e seus propósitos de negócio
-- O estilo arquitetural de APIs.
-- Os tipos de APIs
-- Plataformas de API
-- O modelo de APIs Requisição Resposta e os estilos REST, RPC e
-- GraphQL
-- O modelo de APIs Dirigido por Eventos e os estilos
-- WebHook,WebSocketse HTTP Streaming
-- Exemplos reais do uso de APIs
-- Um comparativo dos seis estilos de APIs
+- O padrão arquitetural MVC
+- M – Modelos Ricos e Modelos Anêmicos
+- Variações do padrão MVC – MVP e MVVM
+- Tecnologias Web para Organização de Views
+- Tecnologias Web para Organização de View Models e Controladores
+- Padrões Arquiteturais para Organização de Domínio
+- DDD – Domain Driven Design
+- Padrões Arquiteturais para Persistência de Dados
+- Tecnologias para Persistência de Dados
+
 
 **PONTOS DE ATENÇÃO PARA VERIFICAR O SEU APRENDIZADO**
 Cada vídeo traz os conceitos fundamentais que queremos enfatizar e você deve garantir que o seu entendimento seja apropriado conforme as expectativas abaixo apresentadas.
 
-- Você consegue enumerar quais os propósitos de negócio de uma APIs?
-- Você consegue descrever os objetivos de uma plataforma de API?
-- Você consegue descrever e explicar:
-  - o estilo REST com suas vantagens e desvantagens?
-  - estilo RPC com suas vantagens e desvantagens?
-  - o estilo GraphQL com suas vantagens e desvantagens?
-  - o estilo WebHooks com suas vantagens e desvantagens?
-  - o estilo WebSockets com suas vantagens e desvantagens?
-  - o estilo HTTP Streaming com suas vantagens e desvantagens?
+- Você consegue explicar o MVC?
+- Você consegue reconhecer os padrões de desenho presentes no MVC?
+- Você consegue comparar o MVC, MVP e o MVVM?
+- Você consegue enumerar e comparar tecnologias de View e ViewModel para tecnologias Web.
+- Você consegue enumerar os padrões para organização de domínio?
+- Você consegue descrever o padrão DDD?
+- Você consegue enumerar os padrões para persistência de dados?
+- Você consegue enumerar tecnologias para persistência de dados?
+
 
 
 ## Referências Bibliográficas
