@@ -4,35 +4,28 @@ Profª: Marco Aurélio de Souza Mendes
 
 ## Objetivo da unidade
 
-A terceira unidade da nossa disciplina busca trazer fundamentos sobre APIs para você.
+A segunda unidade da nossa disciplina busca trazer fundamentos sobre APIs para você.
 
 ## Temática da unidade
 
 Você irá conhecer nessa unidade
 
-- O padrão arquitetural MVC
-- M – Modelos Ricos e Modelos Anêmicos
-- Variações do padrão MVC – MVP e MVVM
-- Tecnologias Web para Organização de Views
-- Tecnologias Web para Organização de View Models e Controladores
-- Padrões Arquiteturais para Organização de Domínio
-- DDD – Domain Driven Design
-- Padrões Arquiteturais para Persistência de Dados
-- Tecnologias para Persistência de Dados
-
+- O conceito de topologias físicas
+- Escalabilidade horizontal e escalabilidade vertical
+- Padrões comuns para topologias de aplicações Web
+- Servidores Web – Características e Gerações
+- Servidores Web auto hospedados
+- Conteineres
+- Computação sem servidor
 
 **PONTOS DE ATENÇÃO PARA VERIFICAR O SEU APRENDIZADO**
 Cada vídeo traz os conceitos fundamentais que queremos enfatizar e você deve garantir que o seu entendimento seja apropriado conforme as expectativas abaixo apresentadas.
 
-- Você consegue explicar o MVC?
-- Você consegue reconhecer os padrões de desenho presentes no MVC?
-- Você consegue comparar o MVC, MVP e o MVVM?
-- Você consegue enumerar e comparar tecnologias de View e ViewModel para tecnologias Web.
-- Você consegue enumerar os padrões para organização de domínio?
-- Você consegue descrever o padrão DDD?
-- Você consegue enumerar os padrões para persistência de dados?
-- Você consegue enumerar tecnologias para persistência de dados?
-
+- Você consegue enumerar e comparar topologias de servidores Web?
+- Você consegue apontar vantagens e desvantagens nas formas de- escalabilidade horizontal e vertical?
+- Você consegue descrever as características de cada geração de- servidores Web?
+- Você consegue apontar as vantagens, desvantagens e cenários de- servidores Web auto hospedados?
+- Você consegue apontar as vantagens, desvantagens e cenários da- computação sem servidor (Serverless)?
 
 
 ## Referências Bibliográficas
